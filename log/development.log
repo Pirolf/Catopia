@@ -1,0 +1,12 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-11 17:25:30 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/pirolf/.rvm/gems/ruby-2.1.4/gems/railties-4.2.3/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 35ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-11 17:46:37 -0700
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 17ms (Views: 9.6ms | ActiveRecord: 0.0ms)
