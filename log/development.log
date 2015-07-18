@@ -220,3 +220,15 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-07-15 23:12:53 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-18 13:42:10 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/mizu/.rvm/gems/ruby-2.1.2/gems/railties-4.2.3/lib/rails/templates/rails/welcome/index.html.erb (16.7ms)
+Completed 200 OK in 93ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-18 14:08:06 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 324ms (Views: 307.8ms | ActiveRecord: 0.0ms)
