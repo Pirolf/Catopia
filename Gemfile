@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
+gem 'bootstrap-sass', '3.3.5'
 # Use sqlite3 as the database for Active Record
 # Heroku cannot install sqlite3
 # gem 'sqlite3', '1.3.10'
